@@ -1,5 +1,74 @@
-body{
+@import url('https://fonts.googleapis.com/css2?family=Monsieur+La+Doulaise&family=Mulish:ital,wght@0,200..1000;1,200..1000&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+*{
     margin: 0%;
-    background-color: antiquewhite;
-    font-family: crossorigin;
+    padding: 0%;
+    font-family: "Poppins", sans-serif;
+}
+
+body{
+    height: 100vh;
+    background-color: #fef0d3;
+    padding: 0 12%;
+}
+
+header{
+    display: flex;
+    justify-content: space-between;
+    margin: 30px;
+}
+
+header .logo{
+    text-decoration: none;
+    color: #81522e;
+    font-weight: bold;
+    font-size: 25px;
+}
+
+header nav ul{
+    display: flex;
+    flex-wrap: wrap;
+    list-style: none;
+    gap: 2em;
+    align-items: center;
+}
+
+header nav ul li a{
+    list-style: none;
+    text-decoration: none;
+}
+
+.menu a{
+    color: #333;
+}
+
+.menu a:hover{
+    color: #81522e;
+}
+
+.btn{
+    padding: 8px 30px;
+    font-size: 16px;
+    border: none;
+    border-radius: 6px;
+    cursor: pointer;
+    background-color: #81522e;
+    color: #fff;
+    transition: 0.5s;
+}
+
+.btn:hover{
+    background-color: #af6d3b;
+}
+
+.home{
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+}
+
+.home h4{
+    font-family:"Monsieur La Doulaise",sans-serif;
+    font-size: xxx-large;
+    color: #81522e;
 }

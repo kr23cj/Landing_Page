@@ -1,0 +1,41 @@
+[33mcommit 805a9fee0de8ffdbd68f98d80bb4df8668dd7cbb[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmaster[m[33m)[m
+Author: Russel Kouame <kr23cj@gmail.com>
+Date:   Tue Apr 14 08:21:53 2026 +0000
+
+    Correction syntaxe
+
+[33mcommit db059935709c751c09139c625e83e027aa8bbc28[m
+Author: Russel Kouame <kr23cj@gmail.com>
+Date:   Mon Apr 13 20:35:34 2026 +0000
+
+    Finition V1 Images menu présentation
+
+[33mcommit b069538cc91796c705516289b179b05947f8aa7f[m
+Author: Russel Kouame <kr23cj@gmail.com>
+Date:   Mon Apr 13 20:15:47 2026 +0000
+
+    Ajout des images modeles
+
+[33mcommit 630963ada9f7f41ab4f38839a61051a60e63e09e[m
+Author: Russel Kouame <kr23cj@gmail.com>
+Date:   Mon Apr 13 20:11:43 2026 +0000
+
+    Navbar et titres
+
+[33mcommit 0737f51d229785c9abc6d91ef858b8e4eabc07ca[m
+Author: Russel Kouame <kr23cj@gmail.com>
+Date:   Mon Apr 13 18:14:00 2026 +0000
+
+    Ajout du google font
+
+[33mcommit e391376aca367ae17487819d4a7d9302449d3fe9[m
+Author: Russel Kouame <kr23cj@gmail.com>
+Date:   Mon Apr 13 18:08:44 2026 +0000
+
+    Ajout du titre et du background css
+
+[33mcommit 8e0ceaeb21eba042852dc7bc447a1f9f67b9c19b[m
+Author: Russel Kouame <kr23cj@gmail.com>
+Date:   Mon Apr 13 18:01:32 2026 +0000
+
+    Création du la base HTML

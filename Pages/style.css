@@ -73,6 +73,11 @@ header nav ul li a{
     color: #81522e;
 }
 
+.home h1{
+    font-size: xxx-large;
+    color: #81522e;
+}
+
 .modeles{
     display: flex;
     margin-top: 50px;
